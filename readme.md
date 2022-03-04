@@ -1,6 +1,6 @@
 ﻿### Hi there, I'm Anders 👋 
 
-## I'm a Husband, Soon-to-be-father, Developer, and Machine Learning nerd!!
+## I'm a Husband, Father, Developer, and Machine Learning nerd!
 
 - 🔭 I'm currently working at Ampler.io
 - 🌱 I love learning new stuff!
