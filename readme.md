@@ -1,10 +1,10 @@
 ﻿### Hi there, I'm Anders 👋 
 
-## I'm a Husband, Father, Developer, and Machine Learning nerd!
+## I'm a Husband, Father, Developer, and Generative AI nerd!
 
 - 🔭 I'm currently working at Ampler.io
 - 🌱 I love learning new stuff!
-- 🥅 2022 Goals: Finally showcase one of my personal project on GitHub
+- 🥅 2024 Goals: Finally showcase one of my personal project on GitHub
 - ⚡ Fun fact: I love strength training, running, and biking
 
 ### Connect with me:
